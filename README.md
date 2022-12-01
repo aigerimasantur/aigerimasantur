@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aigerimasantur
 - 👀 I’m interested in baking, reading and recently coding.
-- 🌱 I’m currently learning cs50 and Python
+- 🌱 I’m currently learning CS50x and CS50Python.
 - 💞️ I’m looking to collaborate on hmm..do not know yet.
 - 📫 How to reach me aigerimasantur@gmail.com
 
